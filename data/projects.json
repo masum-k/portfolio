@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "bibliodrop",
+    "title": "BiblioDrop",
+    "status": "In Progress",
+    "featured": true,
+    "description": "A full-stack digital platform connecting readers and students with local libraries and independent book owners.",
+    "overview": "BiblioDrop is a comprehensive digital platform that connects readers and students with local libraries and independent book owners. Users can browse book collections, manage reading lists, and request doorstep delivery. Librarians and book owners can manage their inventory and delivery requests, while administrators oversee the overall platform.",
+    "technologies": [
+      "Next.js",
+      "MongoDB",
+      "Express.js",
+      "Tailwind CSS",
+      "Better Auth",
+      "JWT",
+      "HeroUI",
+      "Gravity UI"
+    ],
+    "links": {
+      "live": "https://b13-assignment-10-client-flame.vercel.app/",
+      "github": "https://github.com/masum-k/b13-assignment-10-client"
+    },
+    "challenges": [
+      "Designing a role-based system for different types of users.",
+      "Managing authentication and authorization across the application.",
+      "Structuring and managing application data with MongoDB.",
+      "Building responsive interfaces for different user roles.",
+      "Organizing a growing full-stack application into reusable components."
+    ],
+    "developmentStatus": "This project is currently under development. The goal is to complete the required features, improve stability, and polish the user experience according to the project requirements."
+  },
+  {
+    "slug": "skillforge",
+    "title": "SkillForge",
+    "status": "Finished",
+    "featured": false,
+    "description": "An online learning platform inspired by modern course marketplace websites.",
+    "overview": "SkillForge is an education-focused web application inspired by modern online course platforms. The project provides an organized interface for exploring educational content and courses through a clean and responsive user experience.",
+    "technologies": [
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "links": {
+      "live": "https://b13-assignment-8-jade.vercel.app/",
+      "github": "https://github.com/masum-k/b13-assignment-8"
+    },
+    "challenges": [
+      "Creating a clean and intuitive course-oriented interface.",
+      "Building responsive layouts for different screen sizes.",
+      "Organizing pages and reusable components with Next.js.",
+      "Maintaining a consistent visual design throughout the application."
+    ],
+    "developmentStatus": "This project is completed according to its original scope. There are currently no additional features planned because the primary goal was to complete the required project within the given timeline."
+  },
+  {
+    "slug": "keen-keeper",
+    "title": "Keen Keeper",
+    "status": "Finished",
+    "featured": false,
+    "description": "A modern contact tracking web application that combines contact management with social interaction tracking.",
+    "overview": "Keen Keeper is a modern contact tracking web application. It works as a hybrid between a traditional phone contact application and a social activity tracker, helping users organize contacts and monitor how they interact with them over time.",
+    "technologies": [
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "links": {
+      "live": "https://keen-keeper-b13-asgmt-7.netlify.app/",
+      "github": "https://github.com/masum-k/b13-assignment-7"
+    },
+    "challenges": [
+      "Designing an intuitive interface for organizing contact information.",
+      "Presenting contact interactions in a clear and understandable way.",
+      "Building reusable components for the application's interface.",
+      "Maintaining a responsive layout across different screen sizes."
+    ],
+    "developmentStatus": "This project is completed according to its original scope. There are currently no additional features planned because the primary goal was to complete the required project within the given timeline."
+  }
+]

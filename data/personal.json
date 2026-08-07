@@ -1,0 +1,15 @@
+{
+  "name": "Masum Kamal",
+  "designation": "Full Stack Web Developer",
+  "email": "webdev.maasum@gmail.com",
+  "location": "Comilla Sadar, Comilla, Bangladesh",
+  "resume": {
+    "available": false,
+    "url": "/resume/resume.pdf"
+  },
+  "about": {
+    "journey": "I've been fascinated by computers for as long as I can remember. Growing up, video games sparked my curiosity and eventually led me toward programming. I discovered that coding is a great way to turn ideas into real things digitally, which made web development a natural place for me to start.",
+    "interests": "I enjoy building different kinds of things with code, especially web applications. Outside programming, I enjoy gaming and have a growing interest in photography.",
+    "futureGoals": "My goal is to become a skilled software engineer capable of building high-quality applications across multiple platforms. I'm currently focused on full-stack web development, and in the future I plan to explore Android and iOS app development, UI/UX design, and graphic design to become a more versatile developer."
+  }
+}
