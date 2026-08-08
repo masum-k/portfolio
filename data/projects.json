@@ -2,6 +2,7 @@
   {
     "slug": "bibliodrop",
     "title": "BiblioDrop",
+    "image": "/images/bibliodrop.png",
     "status": "In Progress",
     "featured": true,
     "description": "A full-stack digital platform connecting readers and students with local libraries and independent book owners.",
@@ -32,6 +33,7 @@
   {
     "slug": "skillforge",
     "title": "SkillForge",
+    "image": "/images/skillforge.png",
     "status": "Finished",
     "featured": false,
     "description": "An online learning platform inspired by modern course marketplace websites.",
@@ -55,6 +57,8 @@
   {
     "slug": "keen-keeper",
     "title": "Keen Keeper",
+    "image": "/images/keenkeeper.png",
+
     "status": "Finished",
     "featured": false,
     "description": "A modern contact tracking web application that combines contact management with social interaction tracking.",
